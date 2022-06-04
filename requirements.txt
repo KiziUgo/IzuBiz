@@ -46,6 +46,7 @@ jmespath==0.10.0
 lml==0.1.0
 MarkupPy==1.14
 mysql==0.0.2
+mysql-connector-python==8.0.29
 mysqlclient==1.4.6
 newsapi-python==0.2.6
 oauthlib==3.1.0
@@ -55,6 +56,7 @@ pathspec==0.9.0
 phonenumbers==8.12.14
 Pillow==7.1.1
 pipenv==2020.8.13
+protobuf==4.21.1
 psycopg2==2.8.4
 pycparser==2.20
 pyexcel==0.6.6
