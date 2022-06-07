@@ -1,1 +1,1 @@
-web: gunicorn KiziBiz.wsgi
+web gunicorn ZubyTex.wsgi:application --log-file -
