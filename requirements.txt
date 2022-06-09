@@ -46,6 +46,7 @@ jmespath==0.10.0
 lml==0.1.0
 MarkupPy==1.14
 mysql==0.0.2
+mysql-connector-python==8.0.29
 mysqlclient==1.4.6
 newsapi-python==0.2.6
 oauthlib==3.1.0
